@@ -14,6 +14,11 @@
 
 ### Preview
 
+#### On Vercel
+
+>https://gravity-progressbar.vercel.app/
+
+#### On CodePen (Mini, base on js + scss only)
 > https://codepen.io/MoYoez/pen/GgqzNoG
 
 
